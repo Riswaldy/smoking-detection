@@ -1,0 +1,13 @@
+names:
+- cigarette
+- smoking
+nc: 2
+roboflow:
+  license: Private
+  project: smoking-detection-2sjky
+  url: https://app.roboflow.com/comvis-nojup/smoking-detection-2sjky/1
+  version: 1
+  workspace: comvis-nojup
+test: ../test/images
+train: C:/Users/user/Desktop/and/final/smoking-detection/train/images
+val: C:/Users/user/Desktop/and/final/smoking-detection/valid/images
