@@ -1,3 +1,6 @@
+### APP
+![APP](smokdet.png)
+
 # Smoking Detection 🚭
 
 This project implements a real-time smoking detection system using **YOLOv8** and **OpenCV**. It is designed to detect individuals smoking in video streams or live camera feeds, making it suitable for environments where smoking is prohibited.
